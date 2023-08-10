@@ -17,7 +17,7 @@ if bit=='64bit':
     time.sleep(2)
 
     import saiful505
-    menu()
+    saiful505.menu()
 
 elif bit=='32bit':
 
