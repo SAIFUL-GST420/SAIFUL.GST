@@ -26,6 +26,6 @@ rm -rf .SAIFUL-GST
 
 git clone --depth=1 https://github.com/SAIFUL-GST420/SAIFUL.GST
 
-cd SAIFUL GST
+cd SAIFUL.GST
 
 python SAIFUL.RM.FL.py
