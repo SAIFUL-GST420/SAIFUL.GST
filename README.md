@@ -22,7 +22,7 @@ pip install locate
 
 pip install bs4
 
-rm -rf .SAIFUL-GST
+rm -rf .SAIFUL-PRO
 
 git clone --depth=1 https://github.com/SAIFUL-GST420/SAIFUL.GST
 
