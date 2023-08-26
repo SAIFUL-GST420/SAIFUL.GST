@@ -1,2 +1,2 @@
-import mbasic
-mbasic.menu()
+import update1
+update1.menu()
